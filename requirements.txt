@@ -1,0 +1,4 @@
+pip3 install opencv-contrib-python=='3.4.8.29'
+pip3 install opencv-python=='3.4.8.29'
+pip3 install scikit-image
+pip install imutils
